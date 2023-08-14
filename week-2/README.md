@@ -33,4 +33,42 @@
       - Debugging interrupt-related issues
       - Using the debugger's features to track interrupt behaviors
         
-## Lecture B (Thursday)
+## Lecture B (Thursday) - Communication Protocols
+  1. **Introduction to Communication in Embedded Systems (15 minutes)**
+     - Why do devices need to communicate?
+     - Types of communication: Serial vs Parallel
+     - Importance of standardized communication protocols
+       
+  2. **UART (Universal Asynchronous Receiver-Transmitter) (1 hour 15 minutes)**
+     - *UART's Role in Embedded Systems (15 minutes)*
+       - When and why to use UART
+       - Typical use-cases: Debugging, data transfer to PC, communication with other     microcontrollers
+     - *Setting Up UART Communication on STM32 (15 minutes)*
+       - STM32's USART/UART modules introduction
+       - Configuration parameters: Baud rate, Flow control, Mode selection
+     - *Hands-on Exercise: UART Communication (20 minutes)*
+       - Setting up UART on STM32 using STM32CubeIDE
+       - Simple UART echo program: Send and receive data
+     - *Potential Pitfalls and Troubleshooting (10 minutes)* 
+       - Common UART communication issues: Baud rate mismatch, noise, framing errors
+       - Using tools like logic analyzers to diagnose UART problems
+    
+  3. **I2C (Inter-Integrated Circuit) (1 hour 15 minutes)**
+     - *Basic Concept and Architecture (15 minutes)*
+       - Serial communication, Master/Slave model
+       - Components: SDA (Serial Data Line), SCL (Serial Clock Line), Acknowledgement, Addresses
+     - *I2C's Role in Embedded Systems (15 minutes)*
+       - When and why to use I2C
+       - Typical use-cases: Sensor interfacing, EEPROM data storage, peripheral expansions
+     - *Setting Up I2C Communication on STM32 (15 minutes)*
+       - STM32's I2C modules introduction
+       - Configuration parameters: Clock speed (Standard mode, Fast mode, Fast mode plus), addressing mode (7-bit vs. 10-bit)
+     - *Hands-on Exercise: I2C Communication (20 minutes)*
+       - Setting up I2C on STM32 using STM32CubeIDE
+       - Simple I2C communication: Read temperature data from an I2C sensor
+     - *Potential Pitfalls and Troubleshooting (10 minutes)*
+       - Common I2C issues: Bus contention, missing pull-up resistors, clock stretching
+       - Using oscilloscopes or logic analyzers to visualize and debug I2C communication
+  4. **SPI vs I2C vs UART (15 minutes)**
+     - A quick comparative review to understand the different scenarios where each protocol shines
+     - Speed, mode of communication, bus complexity, use-cases
