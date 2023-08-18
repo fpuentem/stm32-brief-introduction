@@ -33,7 +33,7 @@
     - What is GPIO?
     - GPIO configuration (Input, Output, Analog, and Alternate functions)
     - Digital read/write operations
-    - Demonstration with LED blinking (if possible)
+    - [Demonstration with LED blinking](./exercises/exercise_1_blinky.md)
     
 7. **Other usefull tools (30 minutes)**
     - Distributed Version Control System Git and GitHub

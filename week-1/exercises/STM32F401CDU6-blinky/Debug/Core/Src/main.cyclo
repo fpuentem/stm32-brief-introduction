@@ -1,0 +1,5 @@
+../Core/Src/main.c:65:5:main	1
+../Core/Src/main.c:111:6:SystemClock_Config	3
+../Core/Src/main.c:159:13:MX_USB_OTG_FS_USB_Init	1
+../Core/Src/main.c:180:13:MX_GPIO_Init	1
+../Core/Src/main.c:221:6:Error_Handler	1
