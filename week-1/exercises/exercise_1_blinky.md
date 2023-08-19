@@ -1,8 +1,9 @@
 # LED blinking
 ## Prerequisites
  - STM32 board or emulation software  
-    In this case, It's going to be used the STM32F401CDU6:
+    In this case, It's going to be used the STM32F401CDU6:[(documentation)](https://www.st.com/en/microcontrollers-microprocessors/stm32f401cd.html#documentation)
     ![stm32f401cd board](./img/STM32F401CCU6_WeAct_Black_Pill_V1.2-1.jpg)
+    [board](https://stm32-base.org/boards/STM32F401CEU6-WeAct-Black-Pill-V3.0)
     Or the simulated version in *Proteus*:
     ![stm32f401cd proteus](./img/STM32F401CD_proteus.jpg)
  - STM32CUBE IDE installed
