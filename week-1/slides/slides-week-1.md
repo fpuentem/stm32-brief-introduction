@@ -42,14 +42,14 @@ Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Micro
 
 ---
 
-# Differences from General-Purpose Computers
-## Contrasting Embedded Systems & General-Purpose Computers
+# Differences between embedded systems and general-purpose computers
+### Contrasting Embedded Systems & General-Purpose Computers
 - **Dedicated Functionality**: Embedded systems have a specific purpose; general-purpose computers are versatile.
 - **Resource Constraints**: Limited resources in embedded systems; computers have abundant resources.
 - **Real-time Requirements**: Many embedded systems require real-time responses; general-purpose computers prioritize throughput.
 - **Form Factor**: Embedded systems often compact; computers come in various sizes.
 
-Reference: *Embedded Systems: A Contemporary Design Tool* by James K. Peckol.
+###### Reference: *Embedded Systems: A Contemporary Design Tool* by James K. Peckol.
 
 
 ---
