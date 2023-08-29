@@ -20,7 +20,7 @@ Reference: *Embedded Systems: Architecture, Programming, and Design* by Raj Kama
 
 ---
 
-# Slide 2: Characteristics of Embedded Systems
+# Characteristics of Embedded Systems
 ## Key Characteristics
 - **Real-time Operation**: Timely response to external events.
 - **Constraints on Resources**: Limited memory, processing power, energy.
@@ -31,7 +31,7 @@ Reference: *Embedded Systems Design: An Introduction to Processes, Tools, and Te
 
 ---
 
-# Slide 3: Embedded Systems in Daily Life
+# Examples in daily life
 ## Examples in Daily Life
 - **Smartphones**: Combines communication, computation, and multimedia.
 - **Automotive**: Engine control, safety systems, infotainment.
@@ -42,7 +42,7 @@ Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Micro
 
 ---
 
-# Slide 4: Differences from General-Purpose Computers
+# Differences from General-Purpose Computers
 ## Contrasting Embedded Systems & General-Purpose Computers
 - **Dedicated Functionality**: Embedded systems have a specific purpose; general-purpose computers are versatile.
 - **Resource Constraints**: Limited resources in embedded systems; computers have abundant resources.
@@ -58,7 +58,7 @@ Reference: *Embedded Systems: A Contemporary Design Tool* by James K. Peckol.
 
 ---
 
-# Slide 1: What is a Microcontroller?
+# What is a Microcontroller?
 ## Unveiling the Microcontroller Magic
 - **Definition**: A compact integrated circuit (IC) that contains a processor, memory, and input/output peripherals.
 - **Functionality**: Executes pre-programmed tasks, controls devices, and processes data.
@@ -68,7 +68,7 @@ Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazid
 
 ---
 
-# Slide 2: What is a Microcontroller?
+# What is a Microcontroller?
 ## Exploring the Microcontroller Realm
 - **Core Components**: CPU, RAM, ROM/Flash memory, timers, and I/O ports.
 - **Variety**: Diverse microcontrollers for various applications (8-bit, 16-bit, 32-bit).
@@ -79,7 +79,7 @@ Reference: *Embedded Microcontroller Interfacing: Designing Integrated Projects*
 
 ---
 
-# Slide 1: Key components
+# Key components
 ## Components in Detail
 1. **CPU**: Represents the central processing unit that executes instructions.
 2. **Program Memory**: This can be ROM (Read-Only Memory) or Flash memory where the program instructions are stored.
@@ -89,7 +89,7 @@ Reference: *Microcontroller Design Using 8051* by S. R. Deb.
 
 ---
 
-# Slide 2: Key components
+# Key components
 ## Components in Detail
 4. **I/O Ports**: These are the input/output pins that allow the microcontroller to communicate with external devices.
 5. **Timers**: Hardware components used for generating time-based events or delays.
@@ -99,7 +99,7 @@ Reference: *Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers
 
 ---
 
-# Slide 1: How microcontrollers differ from microprocessors
+# How microcontrollers differ from microprocessors
 ## Unraveling the Distinctions
 - **Microcontrollers**: All-in-one devices tailored for specific tasks.
 - **Microprocessors**: General-purpose computing powerhouses.
@@ -108,7 +108,7 @@ Reference: *Embedded Systems: Architecture, Programming, and Design* by Raj Kama
 
 ---
 
-# Slide 2: How microcontrollers differ from microprocessors
+# How microcontrollers differ from microprocessors
 ## Contrasting Characteristics
 - **Functionality**: Microcontrollers are task-specific; microprocessors are versatile.
 - **Components**: Microcontrollers have CPU, memory, I/O, timers; microprocessors focus on CPU.
@@ -133,7 +133,7 @@ Reference: *Microcontroller Theory and Applications: HC12 and S12* by Daniel J. 
 
 ---
 
-# Slide 1: Applications of microcontrollers
+# Applications of microcontrollers
 ## Exploring the Microcontroller Universe
 - **Embedded Systems**: Heart of countless devices in our daily lives.
 - **Automotive**: Engine control, safety systems, infotainment.
@@ -144,7 +144,7 @@ Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Micro
 
 ---
 
-# Slide 2: Applications of microcontrollers
+# Applications of microcontrollers
 ## Microcontrollers Everywhere
 - **Industrial Automation**: PLCs, control systems, robotics.
 - **Aerospace**: Avionics, spacecraft control.
@@ -159,7 +159,7 @@ Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazid
 
 ---
 
-# Slide 1: Brief history and evolution of STM32
+# Brief history and evolution of STM32
 ## Unveiling the Evolution
 - **1987**: SGS-Thomson (now STMicroelectronics) enters the microcontroller market.
 - **2007**: Introduction of STM32 series, ARM-based 32-bit microcontrollers.
@@ -169,7 +169,7 @@ Reference: STMicroelectronics website - "STM32 32-bit Arm Cortex MCUs."
 
 ---
 
-# Slide 2: Brief history and evolution of STM32
+# Brief history and evolution of STM32
 ## Advancements Over Time
 - **2009**: Launch of STM32F2 with advanced peripherals and larger memory.
 - **2011**: STM32F4 debuts, bringing more processing power and graphics capabilities.
@@ -180,7 +180,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
-# Slide 3: Brief history and evolution of STM32
+# Brief history and evolution of STM32
 ## Modern Marvels and Future Prospects
 - **Today**: STM32 ecosystem flourishes with extensive development tools and support.
 - **Focus Areas**: IoT, embedded AI, connectivity, and real-time control.
@@ -191,7 +191,7 @@ Reference: STMicroelectronics website - "STM32: Unlocking the full potential of 
 
 ---
 
-# Slide 1: Popularity and market presence
+# Popularity and market presence
 ## Exploring STM32's Popularity
 - **Widespread Adoption**: STM32 gained popularity in diverse industries.
 - **Engineering Community**: Engineers and hobbyists embrace STM32 for projects.
@@ -201,7 +201,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
-# Slide 2: Popularity and market presence
+# Popularity and market presence
 ## STM32's Impressive Market Presence
 - **Global Reach**: STM32 dominates embedded system market share.
 - **Versatility**: Used in consumer electronics, automotive, industrial automation, and more.
@@ -211,7 +211,7 @@ Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/
 
 ---
 
-# Slide 3: Popularity and market presence
+# Popularity and market presence
 ## STM32's Role in Connectivity
 - **IoT Pioneer**: STM32's low-power capabilities cater to IoT devices.
 - **Smart Everything**: STM32 powers smart homes, wearables, industrial IoT, and more.
@@ -221,7 +221,7 @@ Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embe
 
 ---
 
-# Slide 1: Series and families within STM32
+# Series and families within STM32
 ## Navigating the STM32 Universe
 - **Series Classification**: STM32 microcontrollers are categorized into different series.
 - **Differentiation Factors**: Each series tailored to specific application domains.
@@ -231,7 +231,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
-# Slide 2: Series and families within STM32
+# Series and families within STM32
 ## Diving into STM32F Family
 - **STM32F**: Popular series with a wide range of applications.
 - **Variants**: STM32F0 for cost-effective solutions, STM32F4 for high-performance.
@@ -241,7 +241,7 @@ Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/
 
 ---
 
-# Slide 3: Series and families within STM32
+# Series and families within STM32
 ## Spotlight on STM32L Family
 - **STM32L**: Focuses on low-power consumption for battery-operated devices.
 - **Energy Efficiency**: Ideal for IoT, wearable devices, and portable electronics.
@@ -255,7 +255,7 @@ Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embe
 
 ---
 
-# Slide 1: Cortex-M series introduction
+# Cortex-M series introduction
 ## Cortex-M Series: A New Era in Microcontrollers
 - **Introduction**: ARM Cortex-M series designed for embedded applications.
 - **Power and Performance**: Strikes a balance between energy efficiency and processing power.
@@ -265,7 +265,7 @@ Reference: *The Definitive Guide to ARM® Cortex®-M0 and Cortex-M0+ Processors*
 
 ---
 
-# Slide 2: Cortex-M series introduction
+# Cortex-M series introduction
 ## Exploring the Cortex-M Family Tree
 - **Cortex-M0/M0+**: Ultra-low-power, cost-efficient cores.
 - **Cortex-M3**: Offers better performance and broader feature set.
@@ -276,7 +276,7 @@ Reference: *The Designer's Guide to the Cortex-M Processor Family* by Trevor Mar
 
 ---
 
-# Slide 3: Cortex-M series introduction
+# Cortex-M series introduction
 ## Why Choose Cortex-M for Your Designs?
 - **Standardized Architecture**: Consistency across Cortex-M cores for ease of development.
 - **Rich Ecosystem**: Abundant development tools, libraries, and community support.
@@ -286,7 +286,7 @@ Reference: *The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors
 
 ---
 
-# Slide 1: Block diagram of a typical STM32 microcontroller
+# Block diagram of a typical STM32 microcontroller
 ## Navigating the Block Diagram
 - **Introduction**: STM32 microcontrollers feature a diverse set of components.
 - **Central Processing Unit (CPU)**: Executes instructions and manages operations.
@@ -296,7 +296,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
-# Slide 2: Block diagram of a typical STM32 microcontroller
+# Block diagram of a typical STM32 microcontroller
 ## Components at a Glance
 - **Peripherals**: Include I/O ports, timers, communication interfaces.
 - **Bus System**: Interconnects components for data and control flow.
@@ -306,7 +306,7 @@ Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/
 
 ---
 
-# Slide 3: Block diagram of a typical STM32 microcontroller
+# Block diagram of a typical STM32 microcontroller
 ## Exploring the Architecture
 - **Flexibility**: Customize the microcontroller to meet your project's needs.
 - **Software Development**: Write code to utilize CPU, memory, and peripherals.
@@ -316,7 +316,7 @@ Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embe
 
 ---
 
-# Slide 1: Key components
+# Key components
 ## GPIO, ADC, Timers, Communication Interfaces
 - **GPIO (General-Purpose Input/Output)**: Flexible pins for interfacing with external devices.
 - **ADC (Analog-to-Digital Converter)**: Converts analog signals to digital data for processing.
@@ -326,7 +326,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
-# Slide 2: Key components
+# Key components
 ## Enabling Connectivity and Control
 - **Communication Interfaces**: SPI, I2C, UART facilitate data exchange.
 - **SPI (Serial Peripheral Interface)**: High-speed synchronous communication.
@@ -337,7 +337,7 @@ Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/
 
 ---
 
-# Slide 3: Key components
+# Key components
 ## Leveraging STM32's Components
 - **GPIO**: Configure pins for input or output, control logic levels.
 - **ADC**: Measure real-world analog values like temperature, light intensity.
