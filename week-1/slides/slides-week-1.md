@@ -16,7 +16,7 @@ paginate: true
 - Often dedicated to perform a single or a few functions.
 - EXAMPLES: Microcontrollers, microprocessors, FPGA-based systems.
 
-Reference: *Embedded Systems: Architecture, Programming, and Design* by Raj Kamal.
+###### Reference: *Embedded Systems: Architecture, Programming, and Design* by Raj Kamal.
 
 ---
 
@@ -27,7 +27,7 @@ Reference: *Embedded Systems: Architecture, Programming, and Design* by Raj Kama
 - **Reliability**: Critical in applications like medical devices and automotive systems.
 - **Low Power Consumption**: Prolonged battery life in portable devices.
 
-Reference: *Embedded Systems Design: An Introduction to Processes, Tools, and Techniques* by Arnold S. Berger.
+###### Reference: *Embedded Systems Design: An Introduction to Processes, Tools, and Techniques* by Arnold S. Berger.
 
 ---
 
@@ -38,7 +38,7 @@ Reference: *Embedded Systems Design: An Introduction to Processes, Tools, and Te
 - **Home Appliances**: Washing machines, microwave ovens, thermostats.
 - **Medical Devices**: Pacemakers, insulin pumps, medical imaging.
 
-Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers* by Jonathan Valvano.
+###### Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers* by Jonathan Valvano.
 
 ---
 
@@ -64,7 +64,7 @@ Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Micro
 - **Functionality**: Executes pre-programmed tasks, controls devices, and processes data.
 - **Brains & Brawn**: Like the heart and muscles of an embedded system.
 
-Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazidi.
+###### Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazidi.
 
 ---
 
@@ -75,7 +75,7 @@ Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazid
 - **Applications**: Powering everything from washing machines to spacecraft!
 - **Programming**: Develop code in languages like C/C++. And Python too.
 
-Reference: *Embedded Microcontroller Interfacing: Designing Integrated Projects* by Gourab Sen Gupta.
+###### Reference: *Embedded Microcontroller Interfacing: Designing Integrated Projects* by Gourab Sen Gupta.
 
 ---
 
@@ -85,7 +85,7 @@ Reference: *Embedded Microcontroller Interfacing: Designing Integrated Projects*
 2. **Program Memory**: This can be ROM (Read-Only Memory) or Flash memory where the program instructions are stored.
 3. **Data Memory**: This is RAM (Random Access Memory) where temporary data is stored during program execution.
 
-Reference: *Microcontroller Design Using 8051* by S. R. Deb.
+###### Reference: *Microcontroller Design Using 8051* by S. R. Deb.
 
 ---
 
@@ -95,7 +95,7 @@ Reference: *Microcontroller Design Using 8051* by S. R. Deb.
 5. **Timers**: Hardware components used for generating time-based events or delays.
 6. **ADC/DAC**: Analog-to-Digital Converter and Digital-to-Analog Converter for interfacing with analog signals.
 
-Reference: *Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers* by Jonathan W. Valvano.
+###### Reference: *Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers* by Jonathan W. Valvano.
 
 ---
 
@@ -104,7 +104,7 @@ Reference: *Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers
 - **Microcontrollers**: All-in-one devices tailored for specific tasks.
 - **Microprocessors**: General-purpose computing powerhouses.
 
-Reference: *Embedded Systems: Architecture, Programming, and Design* by Raj Kamal.
+###### Reference: *Embedded Systems: Architecture, Programming, and Design* by Raj Kamal.
 
 ---
 
@@ -115,7 +115,7 @@ Reference: *Embedded Systems: Architecture, Programming, and Design* by Raj Kama
 - **Complexity**: Microcontrollers are simpler; microprocessors are more complex.
 - **Cost**: Microcontrollers are cost-effective; microprocessors may be pricier.
 
-Reference: *Microcontroller Theory and Applications: HC12 and S12* by Daniel J. Pack.
+###### Reference: *Microcontroller Theory and Applications: HC12 and S12* by Daniel J. Pack.
 
 ---
 
@@ -129,7 +129,7 @@ Reference: *Microcontroller Theory and Applications: HC12 and S12* by Daniel J. 
 | **Cost**            | Cost-effective         | Potentially pricier    |
 
 
-Reference: *Microcontroller Theory and Applications: HC12 and S12* by Daniel J. Pack.
+###### Reference: *Microcontroller Theory and Applications: HC12 and S12* by Daniel J. Pack.
 
 ---
 
@@ -140,7 +140,7 @@ Reference: *Microcontroller Theory and Applications: HC12 and S12* by Daniel J. 
 - **Consumer Electronics**: Smartphones, TVs, home appliances.
 - **Medical Devices**: Pacemakers, blood glucose monitors, medical imaging.
 
-Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers* by Jonathan Valvano.
+###### Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Microcontrollers* by Jonathan Valvano.
 
 ---
 
@@ -151,7 +151,7 @@ Reference: *Embedded Systems: Real-Time Operating Systems for Arm Cortex M Micro
 - **IoT (Internet of Things)**: Smart devices, environmental monitoring.
 - **Entertainment**: Gaming consoles, musical instruments, toys.
 
-Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazidi.
+###### Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazidi.
 
 ---
 
@@ -165,7 +165,7 @@ Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazid
 - **2007**: Introduction of STM32 series, ARM-based 32-bit microcontrollers.
 - **Diverse Offerings**: STM32F, STM32L, STM32H, STM32G families cater to various applications.
 
-Reference: STMicroelectronics website - "STM32 32-bit Arm Cortex MCUs."
+###### Reference: STMicroelectronics website - "STM32 32-bit Arm Cortex MCUs."
 
 ---
 
@@ -176,7 +176,7 @@ Reference: STMicroelectronics website - "STM32 32-bit Arm Cortex MCUs."
 - **2013**: STM32L0 introduced for ultra-low-power applications.
 - **2017**: STM32G0 series launched with a focus on performance and efficiency.
 
-Reference: *Mastering STM32* by Carmine Noviello.
+###### Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
@@ -187,7 +187,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 - **AI Integration**: STM32Cube.AI for integrating machine learning.
 - **Future**: Continued innovation in performance, power efficiency, and connectivity.
 
-Reference: STMicroelectronics website - "STM32: Unlocking the full potential of IoT."
+###### Reference: STMicroelectronics website - "STM32: Unlocking the full potential of IoT."
 
 ---
 
@@ -197,7 +197,7 @@ Reference: STMicroelectronics website - "STM32: Unlocking the full potential of 
 - **Engineering Community**: Engineers and hobbyists embrace STM32 for projects.
 - **Educational Institutes**: STM32 integrated into electronics curriculum.
 
-Reference: *Mastering STM32* by Carmine Noviello.
+###### Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
@@ -207,7 +207,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 - **Versatility**: Used in consumer electronics, automotive, industrial automation, and more.
 - **Innovation and Performance**: STM32 evolves to meet industry demands.
 
-Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
+###### Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
 
 ---
 
@@ -217,7 +217,7 @@ Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/
 - **Smart Everything**: STM32 powers smart homes, wearables, industrial IoT, and more.
 - **Expanding Ecosystem**: Growing community, resources, and development tools.
 
-Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embedded Systems* by Ray Yao.
+###### Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embedded Systems* by Ray Yao.
 
 ---
 
@@ -227,7 +227,7 @@ Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embe
 - **Differentiation Factors**: Each series tailored to specific application domains.
 - **Example Families**: STM32F0, STM32F1, STM32L4, and more.
 
-Reference: *Mastering STM32* by Carmine Noviello.
+###### Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
@@ -237,7 +237,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 - **Variants**: STM32F0 for cost-effective solutions, STM32F4 for high-performance.
 - **Ecosystem Support**: Rich development tools, libraries, and community resources.
 
-Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
+###### Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
 
 ---
 
@@ -247,7 +247,7 @@ Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/
 - **Energy Efficiency**: Ideal for IoT, wearable devices, and portable electronics.
 - **Peripherals and Features**: Balancing power savings with performance.
 
-Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embedded Systems* by Ray Yao.
+###### Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embedded Systems* by Ray Yao.
 
 ---
 
@@ -261,7 +261,7 @@ Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embe
 - **Power and Performance**: Strikes a balance between energy efficiency and processing power.
 - **Versatility**: Scalable architecture for various use cases.
 
-Reference: *The Definitive Guide to ARM® Cortex®-M0 and Cortex-M0+ Processors* by Joseph Yiu.
+###### Reference: *The Definitive Guide to ARM® Cortex®-M0 and Cortex-M0+ Processors* by Joseph Yiu.
 
 ---
 
@@ -272,7 +272,7 @@ Reference: *The Definitive Guide to ARM® Cortex®-M0 and Cortex-M0+ Processors*
 - **Cortex-M4**: Adds DSP extensions for signal processing tasks.
 - **Cortex-M7**: Higher performance and advanced features for complex systems.
 
-Reference: *The Designer's Guide to the Cortex-M Processor Family* by Trevor Martin.
+###### Reference: *The Designer's Guide to the Cortex-M Processor Family* by Trevor Martin.
 
 ---
 
@@ -282,7 +282,7 @@ Reference: *The Designer's Guide to the Cortex-M Processor Family* by Trevor Mar
 - **Rich Ecosystem**: Abundant development tools, libraries, and community support.
 - **Scalability**: Select the right core for your application's requirements.
 
-Reference: *The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors* by Joseph Yiu.
+###### Reference: *The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors* by Joseph Yiu.
 
 ---
 
@@ -292,7 +292,7 @@ Reference: *The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors
 - **Central Processing Unit (CPU)**: Executes instructions and manages operations.
 - **Memory**: Stores program code and data temporarily during execution.
 
-Reference: *Mastering STM32* by Carmine Noviello.
+###### Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
@@ -302,7 +302,7 @@ Reference: *Mastering STM32* by Carmine Noviello.
 - **Bus System**: Interconnects components for data and control flow.
 - **Clock and Power Management**: Regulate clock frequencies and power modes.
 
-Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
+###### Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
 
 ---
 
@@ -312,7 +312,7 @@ Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/
 - **Software Development**: Write code to utilize CPU, memory, and peripherals.
 - **Hardware Interfacing**: Connect external devices to I/O ports and communication interfaces.
 
-Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embedded Systems* by Ray Yao.
+###### Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embedded Systems* by Ray Yao.
 
 ---
 
