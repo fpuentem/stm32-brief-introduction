@@ -10,8 +10,12 @@ paginate: true
 
 ---
 
+# **Lecture A**:
 # Introduction to Embedded Systems
-## What is an Embedded System?
+
+---
+
+# What is an Embedded System?
 - **Embedded System**: Combination of hardware and software designed for a specific purpose within a larger system.
 - Often dedicated to perform a single or a few functions.
 - EXAMPLES: Microcontrollers, microprocessors, FPGA-based systems.
@@ -322,7 +326,7 @@ paginate: true
 - **ADC (Analog-to-Digital Converter)**: Converts analog signals to digital data for processing.
 - **Timers**: Generate precise time intervals for various applications.
 
-Reference: *Mastering STM32* by Carmine Noviello.
+###### Reference: *Mastering STM32* by Carmine Noviello.
 
 ---
 
@@ -389,5 +393,205 @@ Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/
 - **LL**: Offers fine-grained control, ideal for optimization.
 
 Reference: *Mastering STM32* by Carmine Noviello.
+
+---
+
+# GPIOs and Basic I/O
+
+---
+
+# What is GPIO?
+## GPIO: Unveiling the Basics
+- **GPIO Definition**: GPIO stands for General-Purpose Input/Output.
+- **Versatility**: GPIO pins are like the Swiss Army knives of microcontrollers.
+- **Functionality**: Used for both input (sensing) and output (controlling) purposes.
+
+###### Reference: *Mastering STM32* by Carmine Noviello.
+
+---
+
+# What is GPIO?
+## Understanding GPIO's Role
+- **Input Mode**: GPIO pins can read external signals like button presses or sensor data.
+- **Output Mode**: GPIO pins can drive external devices like LEDs, motors, or relays.
+- **Configurability**: Flexible configuration through software for various applications.
+
+###### Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
+
+---
+
+# GPIO configuration
+## Unleashing the Versatility
+- **Input**: Read external signals, like switches and sensors.
+- **Output**: Control external devices, like LEDs and relays.
+- **Analog**: Capture analog signals using ADC (Analog-to-Digital Converter).
+- **Alternate Functions**: Enable specialized functions, e.g., communication interfaces (UART, SPI, I2C).
+
+###### Reference: *Mastering STM32* by Carmine Noviello.
+
+---
+
+# GPIO configuration
+## Practical Application and Beyond
+- **GPIO Configuration**: Define pin direction (input or output), pull-up/pull-down resistors, and speed.
+- **Analog Mode**: Configure pins for precise analog signal measurement.
+- **Alternate Functions**: Customize pins for specific communication protocols or other advanced tasks.
+- **Design Flexibility**: GPIOs are the backbone of microcontroller-based projects.
+
+###### Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
+
+---
+
+# Digital read/write operations
+## Understanding the Basics
+- **Digital GPIO**: General-Purpose Input/Output pins for digital signals.
+- **Read Operation**: Retrieve the logic level (high or low) from a GPIO pin.
+- **Write Operation**: Set or clear the logic level on a GPIO pin.
+
+###### Reference: *Mastering STM32* by Carmine Noviello.
+
+---
+
+# Digital read/write operations
+## Utilizing GPIO in Your Projects
+- **Input Use Cases**: Reading sensor data, monitoring switches, receiving digital signals.
+- **Output Use Cases**: Controlling LEDs, driving relays, triggering external devices.
+
+###### Reference: *Programming with STM32: Getting Started with the Nucleo Board and C/C++* by Donald Norris.
+
+---
+
+# Demonstration with LED blinking
+## A Hands-On Introduction to Embedded Programming
+- **Why LED Blinking**: A fundamental step in embedded systems.
+- **What You Need**: An STM32 microcontroller board, IDE (e.g., STM32CubeIDE).
+- **Code Setup**: Initialize GPIO pin, toggle it on/off, control blinking speed.
+
+###### Reference: *Getting Started with STM32: A Hands-On Introduction to RTOS and Embedded Systems* by Ray Yao.
+
+---
+
+# Demonstration with LED blinking
+## Witness the LED Blinking Demo
+- **Compile and Upload**: Compile your code, upload it to the STM32 board.
+- **LED Behavior**: Observe the LED blinking as per your program.
+- **Building Block**: Foundation for more complex embedded projects.
+
+###### Reference: *Mastering STM32* by Carmine Noviello.
+
+---
+
+# Other usefull tools
+
+---
+
+# Distributed Version Control System Git and GitHub
+## Empowering Collaborative Engineering
+- **What is Git?**: A distributed version control system for tracking changes in code.
+- **Why Git?**: Tracks changes, enables collaboration, and safeguards code.
+- **GitHub**: A web-based platform for hosting and sharing Git repositories.
+
+###### Reference: *Pro Git* by Scott Chacon and Ben Straub.
+
+---
+
+# Distributed Version Control System Git and GitHub
+## Key Concepts and Benefits
+- **Repositories**: Store and manage your project's code.
+- **Branches**: Isolate work, experiment, and collaborate.
+- **Pull Requests**: Facilitate code review and collaboration.
+- **Version Control**: Rollback to previous states and resolve conflicts.
+
+###### Reference: *GitHub For Dummies* by Sarah Guthals, Phil Haack, and Lee Naylor.
+
+---
+
+# Basic concepts of Git
+## Navigating the World of Version Control
+- **Repository (Repo)**: A project's folder that Git is managing.
+- **Commit**: A snapshot of the repository's current state.
+
+###### Reference: *Pro Git* by Scott Chacon and Ben Straub.
+
+---
+
+# Basic concepts of Git
+## Understanding the Building Blocks
+- **Branches**: Independent lines of development within a repository.
+- **Merge**: Combining different branches or histories.
+- **Clone**: Copying a remote repository to your local machine.
+- **Push and Pull**: Sending and receiving changes from a remote repository.
+
+###### Reference: *Version Control with Git* by Jon Loeliger and Matthew McCullough.
+
+---
+
+# Folder tree of a repository
+## Understanding the Folder Tree
+- **Repository**: A container for your project files and history.
+- **Top-Level Directory**: The root folder of your repository.
+- **Subdirectories**: Organize files logically within the repository.
+- **Files**: Individual components, scripts, documents, and more.
+
+###### Reference: *Pro Git* by Scott Chacon and Ben Straub.
+
+---
+
+# Folder tree of a repository
+## Structuring Your Project
+- **Clarity**: Organize files and folders for readability.
+- **Common Practices**: Separate source code, documentation, assets.
+- **Version Control**: Every file and folder is tracked.
+- **Collaboration**: A well-structured repository aids teamwork.
+
+###### Reference: *GitHub For Dummies* by Sarah Guthals, Phil Haack, and Lee Naylor.
+
+---
+
+# **Lecture B**:
+# GPIOs and Basic I/O
+
+---
+
+# Introduction to GPIOs
+
+---
+
+# Definition and role of GPIOs in microcontrollers
+## Understanding Their Significance
+- **What Are GPIOs?**: GPIOs are pins on a microcontroller that can be configured as input or output.
+- **Versatility**: They provide a bridge for microcontrollers to interact with the external world.
+- **Key Roles**: Used for reading sensors, driving LEDs, and more.
+
+###### Reference: *Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers* by Jonathan W. Valvano.
+
+---
+
+# Definition and role of GPIOs in microcontrollers
+## Their Vital Role in Microcontroller Projects
+- **Flexibility**: GPIOs are like the "fingers" of microcontrollers, allowing them to touch the physical world.
+- **Foundation**: GPIOs are fundamental to many embedded systems projects.
+
+###### Reference: *The 8051 Microcontroller and Embedded Systems* by Muhammad Ali Mazidi.
+
+---
+
+# Differentiating GPIOs from specialized pins
+## Unraveling the Differences
+- **GPIO (General-Purpose Input/Output)**: Versatile pins for user-defined functions.
+- **Specialized Pins**: Designed for specific purposes like UART, SPI, I2C.
+- **GPIO Flexibility**: Can be configured as inputs or outputs as needed.
+
+###### Reference: *Microcontroller Theory and Applications: HC12 and S12* by Daniel J. Pack.
+
+---
+
+# Differentiating GPIOs from specialized pins
+## Leveraging Pin Types
+- **GPIO**: Use for custom logic, sensing, control, or interfacing.
+- **Specialized Pins**: Designed for communication and specific protocols.
+- **Choosing Wisely**: Select pins based on your project requirements.
+
+###### Reference: *Embedded Systems: Introduction to Arm® Cortex™-M Microcontrollers* by Jonathan W. Valvano.
 
 ---
