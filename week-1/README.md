@@ -64,11 +64,11 @@
       - Monitoring state changes: Polling vs interrupts
       - Introduction to debouncing (relevant when reading switches or buttons)
         
-5. **Practical Exercises (1 hour)**
+4. **Practical Exercises (1 hour)**
       - Hands-on: Setting up STM32CubeIDE and creating a new project
       - Coding exercise: LED Blinking
       - Coding exercise: Button as an input to control the LED
 
-7. **Potential Pitfalls and Troubleshooting (20 minutes)**
+5. **Potential Pitfalls and Troubleshooting (20 minutes)**
       - Common mistakes when setting up GPIOs
       - Introduction to tools like the logic analyzer or oscilloscope for troubleshooting
