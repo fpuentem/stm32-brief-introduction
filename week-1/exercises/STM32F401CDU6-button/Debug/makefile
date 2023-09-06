@@ -63,8 +63,8 @@ all: main-build
 main-build: STM32F401CDU6-button.elf secondary-outputs
 
 # Tool invocations
-STM32F401CDU6-button.elf STM32F401CDU6-button.map: $(OBJS) $(USER_OBJS) D:\Luis\gitprojects\STM32F401CDU6\STM32F401CDUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "STM32F401CDU6-button.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"D:\Luis\gitprojects\STM32F401CDU6\STM32F401CDUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32F401CDU6-button.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+STM32F401CDU6-button.elf STM32F401CDU6-button.map: $(OBJS) $(USER_OBJS) D:\Luis\gitprojects\stm32-brief-introduction\week-1\exercises\STM32F401CDU6-button\STM32F401CDUX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "STM32F401CDU6-button.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"D:\Luis\gitprojects\stm32-brief-introduction\week-1\exercises\STM32F401CDU6-button\STM32F401CDUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32F401CDU6-button.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
